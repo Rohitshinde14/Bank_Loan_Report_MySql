@@ -61,7 +61,8 @@ The dataset includes 924415 rows and 24 columns. File is attached in repository.
 and around $2250 larger than OWN FUNDED AMOUNT.
 
 --	The total amount received is consistently higher than the total funded amount for all categories, confirming that all segments are generating interest and positive cash flow for the bank.
-    ![image alt](https://github.com/Rohitshinde14/Bank_Loan_Report_MySql/blob/main/Project%20Findings%20Images/Home%20Ownership%20Analysis.png)
+
+![image alt](https://github.com/Rohitshinde14/Bank_Loan_Report_MySql/blob/main/Project%20Findings%20Images/Home%20Ownership%20Analysis.png)
 
 ## How to Run This Project
 * Clone the repository:
