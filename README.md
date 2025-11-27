@@ -26,6 +26,7 @@ The dataset includes 924415 rows and 24 columns. File is attached in repository.
 
 ## Key Findings and Insights
 1.	The data demonstrates a very healthy and consistent growth pattern for the bank throughout the observed year, with a strong finish in the last quarter (October, November, December).
+	
 	  ![image alt](https://github.com/Rohitshinde14/Bank_Loan_Report_MySql/blob/main/Project%20Findings%20Images/Monthly%20Trends%20By%20Issue%20Date.png)
 
 2.	The regional data highlights that the loan activity is highly concentrated in a few key states, primarily CA and FL, while many other states represent small or negligible parts of the overall portfolio. The bank's strategy appears to be heavily focused on these high-volume markets.
@@ -33,6 +34,7 @@ The dataset includes 924415 rows and 24 columns. File is attached in repository.
     ![image alt](https://github.com/Rohitshinde14/Bank_Loan_Report_MySql/blob/main/Project%20Findings%20Images/Regional%20Analysis%20By%20State.png)
   	
 3.	The bank's loan portfolio is heavily lean towards the shorter, 36-month term in application count, but the longer, 60-month term loans carry a significantly higher average principal balance.
+	
     ![image alt](https://github.com/Rohitshinde14/Bank_Loan_Report_MySql/blob/main/Project%20Findings%20Images/Loan%20Term%20Analysis.png)
   	
 4.	The bank's portfolio is heavily reliant on two stable but distinct segments: the most established employees (10+ years), who are the bank's premium customers, and the newest employees (< 1 to 3 years), who represent a high-volume, potentially younger, segment with smaller average loan needs. The bank's risk model seems comfortable lending to both type of loan needs.
