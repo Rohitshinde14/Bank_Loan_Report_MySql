@@ -3,7 +3,21 @@
 
 ![image alt](https://github.com/Rohitshinde14/Bank_Loan_Report_MySql/blob/main/Thumbnail%20bank%20loan%20report.png)
 
+## Table Of Contents
 
+- [Project Overview](#project-overview)
+- [Objective](#objective)
+- [Dataset](#dataset)
+- [Tools](#tools)
+- [Steps And Workflow](#steps-and-workflow)
+- [Key Findings and Insights](#key-findings-and-insights)
+- [ How to Run This Project](#how-to-run-this-project)
+- [Recommendations](#recommendations)
+- [Future Work](#future-work)
+- [Conclusion](#conclusion)
+- [Contact](#contact)
+
+  
 ## Project Overview
 The Bank Loan Report is designed to evaluate the performance and health of the bank’s lending activities by analyzing key loan metrics over time. It provides insights into loan volumes, repayment trends, borrower behavior, and overall portfolio quality. By tracking these indicators, the report supports data-driven decision-making, helps identify emerging trends, and enables the bank to refine its lending strategies for better risk management and improved operational efficiency.
 ## Objective
